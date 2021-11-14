@@ -1,0 +1,35 @@
+name: gh-serve
+
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  serve:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Tunneling
+        uses: oscarnevarezleal/ngrok-tunneling-action@dev
+        id: tunnel
+        with:
+          port: 1313
+          ngrok_authtoken: ${{ secrets.NGROK_TOKEN }}
+          timeout: 5m
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.85.0'
+
+      - uses: actions/checkout@v2
+
+      - name: Run Hugo
+        run : |
+          git clone https://github.com/spf13/hyde.git themes/hyde
+          git clone https://github.com/panr/hugo-theme-hello-friend.git themes/hello-friend
+          hugo serve -D -b ${{ steps.tunnel.outputs.public-url }} --appendPort=false --liveReloadPort=443 --navigateToChanged -t hyde --port 1313 &
+
+      - run: echo "Navigate to ${{ steps.tunnel.outputs.public-url }}"
+      - run: |
+          echo "⚡ Listening"
+          sleep 5m
