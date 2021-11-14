@@ -28,6 +28,7 @@ jobs:
 
       - name: Create content
         run : |
+          mkdir -p content/posts
           git clone https://github.com/spf13/hyde.git themes/hyde
           file="content/posts/${{ github.event.issue.number }}.md"
 
