@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hello Friend</title>
-    <link>https://oscarnevarezleal.github.io/gh-backend/</link>
+    <link>https://oscarnevarezleal.github.io/gh-cms/</link>
     <description>Recent content on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Nov 2021 22:40:38 +0000</lastBuildDate><atom:link href="https://oscarnevarezleal.github.io/gh-backend/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Nov 2021 22:40:38 +0000</lastBuildDate><atom:link href="https://oscarnevarezleal.github.io/gh-cms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inception</title>
-      <link>https://oscarnevarezleal.github.io/gh-backend/posts/6/</link>
+      <link>https://oscarnevarezleal.github.io/gh-cms/posts/6/</link>
       <pubDate>Sun, 14 Nov 2021 22:40:38 +0000</pubDate>
       
-      <guid>https://oscarnevarezleal.github.io/gh-backend/posts/6/</guid>
+      <guid>https://oscarnevarezleal.github.io/gh-cms/posts/6/</guid>
       <description>My Workflow  Headless CMS using Hugo, Github Issues and Github Actions.
  Every time a new issue is created, a new post is created as well.
  main branch holds the content in markdown format. See folder gh-pages branch contains the distributable html site.  Submission Category: Maintainer Must-Haves &amp;amp; DIY Deployments
@@ -23,19 +23,30 @@ Create a new post by submitting a new issue</description>
     
     <item>
       <title>My third try</title>
-      <link>https://oscarnevarezleal.github.io/gh-backend/posts/3/</link>
+      <link>https://oscarnevarezleal.github.io/gh-cms/posts/3/</link>
       <pubDate>Sun, 14 Nov 2021 22:40:38 +0000</pubDate>
       
-      <guid>https://oscarnevarezleal.github.io/gh-backend/posts/3/</guid>
+      <guid>https://oscarnevarezleal.github.io/gh-cms/posts/3/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Quote</title>
+      <link>https://oscarnevarezleal.github.io/gh-cms/posts/7/</link>
+      <pubDate>Sun, 14 Nov 2021 22:40:38 +0000</pubDate>
+      
+      <guid>https://oscarnevarezleal.github.io/gh-cms/posts/7/</guid>
+      <description>Hello
+ Written by insan3.
+ </description>
+    </item>
+    
+    <item>
       <title>About</title>
-      <link>https://oscarnevarezleal.github.io/gh-backend/about/</link>
+      <link>https://oscarnevarezleal.github.io/gh-cms/about/</link>
       <pubDate>Sun, 14 Nov 2021 15:35:48 -0600</pubDate>
       
-      <guid>https://oscarnevarezleal.github.io/gh-backend/about/</guid>
+      <guid>https://oscarnevarezleal.github.io/gh-cms/about/</guid>
       <description></description>
     </item>
     
