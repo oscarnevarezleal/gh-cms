@@ -8,6 +8,20 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Nov 2021 22:40:38 +0000</lastBuildDate><atom:link href="https://oscarnevarezleal.github.io/gh-backend/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Inception</title>
+      <link>https://oscarnevarezleal.github.io/gh-backend/posts/6/</link>
+      <pubDate>Sun, 14 Nov 2021 22:40:38 +0000</pubDate>
+      
+      <guid>https://oscarnevarezleal.github.io/gh-backend/posts/6/</guid>
+      <description>My Workflow  Headless CMS using Hugo, Github Issues and Github Actions.
+ Every time a new issue is created, a new post is created as well.
+ main branch holds the content in markdown format. See folder gh-pages branch contains the distributable html site.  Submission Category: Maintainer Must-Haves &amp;amp; DIY Deployments
+Yaml File or Link to Code {% github https://github.com/oscarnevarezleal/gh-cms %}
+Additional Resources / Info live demo
+Create a new post by submitting a new issue</description>
+    </item>
+    
+    <item>
       <title>My third try</title>
       <link>https://oscarnevarezleal.github.io/gh-backend/posts/3/</link>
       <pubDate>Sun, 14 Nov 2021 22:40:38 +0000</pubDate>
