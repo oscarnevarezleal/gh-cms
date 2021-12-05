@@ -67,6 +67,17 @@ Create a new post by submitting a new issue</description>
     </item>
     
     <item>
+      <title>Just a thought / suggestion - why not enable Discussions on your repo and trigger on those events instead of issues?</title>
+      <link>https://oscarnevarezleal.github.io/gh-cms/posts/25/</link>
+      <pubDate>Sun, 14 Nov 2021 22:40:38 +0000</pubDate>
+      
+      <guid>https://oscarnevarezleal.github.io/gh-cms/posts/25/</guid>
+      <description>Firstly, this is pretty cool my friend - thanks for sharing! I will have to play around with this on my developer blog and portfolio GitPages SSG site repo which is based on Jekyll and GitActions&amp;hellip;
+One suggestion did occur to me however, and I am curious to hear what you and other members of the dev community think&amp;hellip;
+Rather than firing your actions workflow job in response to the on-issue event - why not trigger based on new Discussions / Comments on Discussions and leave the issue tracking feature as is to be used for code base issue tracking?</description>
+    </item>
+    
+    <item>
       <title>My third try</title>
       <link>https://oscarnevarezleal.github.io/gh-cms/posts/3/</link>
       <pubDate>Sun, 14 Nov 2021 22:40:38 +0000</pubDate>
