@@ -188,6 +188,20 @@ Rather than firing your actions workflow job in response to the on-issue event -
     </item>
     
     <item>
+      <title>Reporting a vulnerability</title>
+      <link>https://oscarnevarezleal.github.io/gh-cms/posts/35/</link>
+      <pubDate>Sun, 14 Nov 2021 22:40:38 +0000</pubDate>
+      
+      <guid>https://oscarnevarezleal.github.io/gh-cms/posts/35/</guid>
+      <description>Hello!
+I hope you are doing well!
+We are a security research team. Our tool automatically detected a vulnerability in this repository. We want to disclose it responsibly. GitHub has a feature called Private vulnerability reporting, which enables security research to privately disclose a vulnerability. Unfortunately, it is not enabled for this repository.
+Can you enable it, so that we can report it?
+Thanks in advance!
+PS: you can read about how to enable private vulnerability reporting here: https://docs.</description>
+    </item>
+    
+    <item>
       <title>Saw this on GitHub&#39;s LinkedIn</title>
       <link>https://oscarnevarezleal.github.io/gh-cms/posts/15/</link>
       <pubDate>Sun, 14 Nov 2021 22:40:38 +0000</pubDate>
