@@ -103,6 +103,15 @@ Create a new post by submitting a new issue</description>
     </item>
     
     <item>
+      <title>Just a test</title>
+      <link>https://oscarnevarezleal.github.io/gh-cms/posts/36/</link>
+      <pubDate>Sun, 14 Nov 2021 22:40:38 +0000</pubDate>
+      
+      <guid>https://oscarnevarezleal.github.io/gh-cms/posts/36/</guid>
+      <description>Test is the Best</description>
+    </item>
+    
+    <item>
       <title>Just a thought / suggestion - why not enable Discussions on your repo and trigger on those events instead of issues?</title>
       <link>https://oscarnevarezleal.github.io/gh-cms/posts/25/</link>
       <pubDate>Sun, 14 Nov 2021 22:40:38 +0000</pubDate>
